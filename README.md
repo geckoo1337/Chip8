@@ -4,5 +4,5 @@ Another Chip8 emulator coded in C++ 17 with some roms.
 
 As graphical interface this emulator use my Template - a Pixel Game Engine ++
 
+![chiplatettt](https://user-images.githubusercontent.com/17862708/217623239-778c45bd-ea21-4c85-8af5-f41c4c06db6c.png)
 
-![chiplatettt](https://user-images.githubusercontent.com/17862708/217622911-cc9006c7-f4a8-41bd-b733-d37710c128aa.png)

@@ -2,7 +2,4 @@ Roms by :
 Sierpinski [Sergey Naydenov, 2010]
 Pong [Paul Vervalin, 1990]
 TicTacToe [David Winter]
-Zero Demo [zeroZshadow, 2007]
 Tetris [Fran Dachille, 1991]
-Lunar Lander (Udo Pernisz, 1979)
-Breakout [Carmelo Cortez, 1979]
